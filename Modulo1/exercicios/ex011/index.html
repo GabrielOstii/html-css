@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagem Dinamica</title>
+</head>
+<body>
+    <picture>
+        <!--Imagem Pequena # -->
+        <source media="(max-width: 750px)" srcset="#" type="image/png">
+        <!--Imagem Media # -->
+        <source media="(max-width: 1050px)" srcset="#" type="image/png">
+        <!--Imagem Base Representado pelo # (tem que ser feito do maior pro menor)-->
+        <img src="#" alt="imagem Flexivel">
+    </picture>
+
+    <audio preload="metadata" controls >
+        <source srcset="#" type="audio/#">
+        <source src="#2" type="audio/#2">
+        <p>Não é compativel</p>
+    </audio>
+</body>
+</html>
