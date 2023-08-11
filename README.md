@@ -3,4 +3,4 @@
 
  Estou Aprendendo a criar sites e agora vou gerenciar meu repositorio!
 
- <a href = "https://gabrielostii.github.io/html-css/Modulo1/desafios/def002/index.html"a> Executar o exercicio de links.
+ <a href = "https://gabrielostii.github.io/html-css/Modulo1/desafios/def002/index.html"a>Executar o exercicio de links.
